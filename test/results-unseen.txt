@@ -1,0 +1,154 @@
+init ms 2773
+OK   zh-Hans #0 slate 2 png horiz none 1800x236 conf 0.86 unc 0 880ms
+OK   zh-Hant #1 night 0.8 jpeg horiz none 720x94 conf 0.76 unc 0 344ms
+OK   ja #2 paper 1.5 png horiz none 1350x177 conf 0.87 unc 0 963ms
+FAIL ko #3 night 2 jpeg horiz none 1800x236 conf 0.81 unc 0 1185ms
+   want 세계의 가장 긴 강의 이름이 뭐지? 
+   got  세계의 가장 긴 강의 이름이 뮈지? ko
+OK   zh-Hans #4 paper 0.6 png horiz pinyin 540x80 conf 0.73 unc 2 557ms
+OK   zh-Hant #5 slate 2 jpeg horiz none 1800x236 conf 0.85 unc 0 256ms
+OK   ja #6 night 1.5 png horiz furigana 1350x318 conf 0.86 unc 0 842ms
+OK   ko #7 slate 1 jpeg horiz none 900x180 conf 0.73 unc 1 1035ms
+OK   zh-Hans #8 ink 1 png vert none 118x584 conf 0.78 unc 0 525ms
+OK   zh-Hant #9 slate 1 jpeg horiz none 900x118 conf 0.8 unc 0 411ms
+FAIL ja #10 ink 0.6 png horiz furigana 540x80 conf 0.73 unc 1 483ms
+   want 太陽は夏は冬より早く昇る。 
+   got  大陽は夏は冬より早く昇る。 ja
+OK   ko #11 paper 0.8 png horiz romaja 720x107 conf 0.73 unc 0 344ms
+FAIL zh-Hans #12 night 0.6 png vert pinyin 80x302 conf 0.65 unc 2 535ms
+   want 你觉得我是在开玩笑吗？ 
+   got  你觉得我垒在开玩笑吗？ zh-Hans
+OK   zh-Hant #13 ink 1.5 jpeg horiz none 1350x177 conf 0.82 unc 0 194ms
+OK   ja #14 night 1 jpeg horiz none 900x180 conf 0.84 unc 0 659ms
+OK   ko #15 night 2 jpeg horiz none 1800x236 conf 0.83 unc 0 281ms
+OK   zh-Hans #16 paper 2 jpeg vert none 360x1400 conf 0.86 unc 0 663ms
+FAIL zh-Hant #17 ink 0.6 jpeg horiz zhuyin 540x80 conf 0.64 unc 6 840ms
+   want 你看上去很蒼白。你最好立刻去床上躺會兒。 
+   got  你看上去很蒼白。你蟁好立刻去床上躺會兒。 zh-Hant
+OK   ja #18 paper 0.6 png horiz none 540x71 conf 0.74 unc 1 360ms
+OK   ko #19 ink 2 jpeg horiz none 1800x236 conf 0.82 unc 0 578ms
+OK   zh-Hans #20 paper 2 jpeg horiz none 1800x236 conf 0.88 unc 0 513ms
+OK   zh-Hant #21 ink 1 jpeg horiz none 900x118 conf 0.8 unc 0 700ms
+OK   ja #22 night 1.5 jpeg horiz none 1350x177 conf 0.86 unc 0 695ms
+FAIL ko #23 slate 0.8 jpeg horiz romaja 720x107 conf 0.69 unc 2 716ms
+   want 제 이름은 메리입니다. 
+   got  제 이릉은 메리입니다. ko
+OK   zh-Hans #24 ink 2 png horiz pinyin 1800x268 conf 0.89 unc 0 129ms
+OK   zh-Hant #25 night 1 jpeg vert zhuyin 134x264 conf 0.82 unc 0 159ms
+OK   ja #26 ink 1 jpeg vert none 118x544 conf 0.83 unc 0 350ms
+OK   ko #27 paper 0.6 jpeg horiz none 540x71 conf 0.66 unc 4 856ms
+OK   zh-Hans #28 slate 2 png horiz none 1800x236 conf 0.9 unc 0 514ms
+OK   zh-Hant #29 night 1 jpeg horiz none 900x118 conf 0.8 unc 0 302ms
+FAIL ja #30 ink 1.5 jpeg horiz none 1350x177 conf 0.82 unc 1 514ms
+   want 彼はメモをドアに糊で貼った。 
+   got  彼はメモをドアに餬で貼った。 ja
+OK   ko #31 ink 1.5 png horiz none 1350x177 conf 0.85 unc 0 318ms
+OK   zh-Hans #32 paper 1 png vert none 118x424 conf 0.81 unc 0 413ms
+OK   zh-Hant #33 ink 2 png horiz none 1800x236 conf 0.87 unc 0 374ms
+OK   ja #34 ink 1.5 png horiz none 1350x177 conf 0.85 unc 0 826ms
+OK   ko #35 ink 1 jpeg horiz none 900x118 conf 0.75 unc 0 364ms
+OK   zh-Hans #36 paper 0.6 jpeg horiz none 540x71 conf 0.68 unc 1 158ms
+OK   zh-Hant #37 night 1.5 png horiz none 1350x177 conf 0.86 unc 0 229ms
+OK   ja #38 slate 2 png vert none 236x1248 conf 0.9 unc 0 479ms
+OK   ko #39 paper 1.5 jpeg horiz none 1350x177 conf 0.81 unc 0 618ms
+OK   zh-Hans #40 night 2 png horiz pinyin 1800x268 conf 0.89 unc 0 623ms
+OK   zh-Hant #41 paper 0.6 jpeg horiz none 540x71 conf 0.69 unc 3 446ms
+OK   ja #42 paper 0.6 jpeg vert none 108x420 conf 0.72 unc 1 554ms
+FAIL ko #43 ink 2 jpeg horiz romaja 1800x268 conf 0.8 unc 0 662ms
+   want 캐나다에 가본 적 있어? 
+   got  캐나다에 가븐 적 있어? ko
+OK   zh-Hans #44 ink 0.8 jpeg horiz none 720x94 conf 0.76 unc 0 645ms
+OK   zh-Hant #45 paper 0.6 png vert none 71x278 conf 0.7 unc 2 290ms
+OK   ja #46 night 0.8 jpeg horiz furigana 720x107 conf 0.79 unc 0 409ms
+OK   ko #47 night 0.6 jpeg horiz none 540x71 conf 0.67 unc 2 520ms
+OK   zh-Hans #48 slate 1 jpeg horiz pinyin 900x134 conf 0.81 unc 0 681ms
+OK   zh-Hant #49 ink 2 png horiz none 1800x236 conf 0.87 unc 0 287ms
+OK   ja #50 night 2 png horiz furigana 1800x268 conf 0.88 unc 0 314ms
+FAIL ko #51 night 0.6 png horiz none 540x71 conf 0.66 unc 2 514ms
+   want 톰은 갈 예정이라고 했어. 
+   got  통은 갈 예정이라고 했어. ko
+OK   zh-Hans #52 paper 1.5 png vert none 177x636 conf 0.85 unc 0 318ms
+OK   zh-Hant #53 night 2 png horiz zhuyin 1800x268 conf 0.89 unc 0 74ms
+OK   ja #54 slate 1 jpeg vert none 118x544 conf 0.78 unc 0 381ms
+FAIL ko #55 paper 0.8 png horiz none 720x94 conf 0.73 unc 1 567ms
+   want 난 톰이 좀 더 신중하길 원했어. 
+   got  난 통이 좀 더 신중하길 원했어. ko
+OK   zh-Hans #56 paper 1 png horiz none 900x180 conf 0.79 unc 0 797ms
+OK   zh-Hant #57 ink 2 jpeg horiz none 1800x236 conf 0.88 unc 0 257ms
+OK   ja #58 night 0.8 png horiz furigana 720x107 conf 0.8 unc 0 450ms
+FAIL ko #59 paper 1 jpeg horiz romaja 900x134 conf 0.75 unc 1 780ms
+   want 물리는 과학의 한 갈래에 속해. 
+   got  물리는 과학의 한 갈레에 속해. ko
+OK   zh-Hans #60 night 1.5 jpeg vert pinyin 201x756 conf 0.81 unc 0 477ms
+OK   zh-Hant #61 paper 1.5 jpeg horiz none 1350x177 conf 0.8 unc 0 303ms
+OK   ja #62 slate 2 jpeg horiz furigana 1800x268 conf 0.87 unc 0 523ms
+OK   ko #63 night 1 jpeg horiz none 900x118 conf 0.77 unc 0 430ms
+OK   zh-Hans #64 slate 1 jpeg horiz none 900x118 conf 0.75 unc 0 364ms
+OK   zh-Hant #65 paper 2 png horiz none 1800x236 conf 0.86 unc 0 176ms
+OK   ja #66 night 1.5 jpeg vert none 177x876 conf 0.85 unc 0 469ms
+OK   ko #67 ink 2 png horiz romaja 1800x268 conf 0.81 unc 0 361ms
+OK   zh-Hans #68 slate 1 png vert pinyin 134x304 conf 0.74 unc 1 203ms
+OK   zh-Hant #69 slate 0.6 png horiz zhuyin 540x80 conf 0.67 unc 3 478ms
+OK   ja #70 night 1 png horiz none 900x118 conf 0.86 unc 0 483ms
+OK   ko #71 night 2 jpeg horiz none 1800x236 conf 0.8 unc 0 360ms
+OK   zh-Hans #72 night 0.8 jpeg horiz pinyin 720x107 conf 0.76 unc 0 664ms
+OK   zh-Hant #73 paper 1.5 jpeg horiz none 1350x177 conf 0.8 unc 0 271ms
+OK   ja #74 paper 1 jpeg vert none 180x700 conf 0.84 unc 0 422ms
+OK   ko #75 night 1 jpeg horiz none 900x118 conf 0.76 unc 0 450ms
+OK   zh-Hans #76 night 1 jpeg horiz none 900x118 conf 0.78 unc 0 319ms
+OK   zh-Hant #77 night 0.6 jpeg horiz none 540x71 conf 0.66 unc 2 261ms
+OK   ja #78 night 1.5 jpeg vert none 270x1050 conf 0.87 unc 0 445ms
+OK   ko #79 ink 2 jpeg horiz romaja 1800x268 conf 0.8 unc 0 321ms
+OK   zh-Hans #80 paper 0.8 png horiz pinyin 720x107 conf 0.79 unc 0 289ms
+OK   zh-Hant #81 paper 0.8 jpeg horiz zhuyin 720x107 conf 0.73 unc 1 338ms
+OK   ja #82 paper 0.6 jpeg vert furigana 127x420 conf 0.72 unc 2 521ms
+OK   ko #83 paper 0.8 jpeg horiz none 720x94 conf 0.71 unc 0 417ms
+OK   zh-Hans #84 paper 0.8 png horiz pinyin 720x107 conf 0.81 unc 0 608ms
+OK   zh-Hant #85 night 0.6 jpeg horiz zhuyin 540x80 conf 0.7 unc 0 463ms
+OK   ja #86 ink 0.8 png horiz furigana 720x107 conf 0.82 unc 0 404ms
+FAIL ko #87 paper 0.8 jpeg horiz none 720x94 conf 0.7 unc 1 590ms
+   want 삶과 죽음의 문제다. 
+   got  삶과 죽응의 문제다. ko
+OK   zh-Hans #88 paper 1.5 png vert none 177x456 conf 0.84 unc 0 218ms
+OK   zh-Hant #89 slate 0.6 jpeg horiz none 540x71 conf 0.68 unc 2 342ms
+OK   ja #90 paper 1 jpeg vert none 118x584 conf 0.8 unc 0 363ms
+FAIL ko #91 night 2 jpeg horiz romaja 1800x268 conf 0.81 unc 0 541ms
+   want 난 가끔 내 자신이 싫어. 
+   got  난 가금 내 자신이 싫어. ko
+OK   zh-Hans #92 paper 0.6 png vert pinyin 80x206 conf 0.7 unc 1 182ms
+OK   zh-Hant #93 slate 0.8 jpeg horiz zhuyin 720x107 conf 0.76 unc 0 324ms
+OK   ja #94 night 0.8 png horiz none 720x94 conf 0.8 unc 0 278ms
+OK   ko #95 night 1.5 png horiz romaja 1350x201 conf 0.82 unc 0 592ms
+OK   zh-Hans #96 paper 2 jpeg horiz none 1800x236 conf 0.85 unc 0 464ms
+OK   zh-Hant #97 paper 0.6 png vert none 71x158 conf 0.65 unc 2 161ms
+OK   ja #98 night 1 jpeg horiz none 900x180 conf 0.83 unc 0 718ms
+OK   ko #99 ink 1 png horiz none 900x118 conf 0.76 unc 0 737ms
+OK   zh-Hans #100 slate 2 jpeg horiz pinyin 1800x268 conf 0.87 unc 0 445ms
+OK   zh-Hant #101 paper 0.6 jpeg horiz none 540x71 conf 0.67 unc 3 348ms
+OK   ja #102 paper 2 png horiz none 1800x236 conf 0.89 unc 0 542ms
+OK   ko #103 night 1.5 jpeg horiz none 1350x177 conf 0.79 unc 0 638ms
+OK   zh-Hans #104 paper 1.5 png vert pinyin 201x576 conf 0.81 unc 0 315ms
+OK   zh-Hant #105 paper 1.5 jpeg vert none 270x996 conf 0.83 unc 0 547ms
+OK   ja #106 slate 0.8 png horiz none 720x94 conf 0.82 unc 0 544ms
+OK   ko #107 paper 0.8 png horiz none 720x94 conf 0.73 unc 1 409ms
+OK   zh-Hans #108 night 2 png horiz pinyin 1800x268 conf 0.85 unc 0 310ms
+OK   zh-Hant #109 night 2 jpeg horiz none 1800x236 conf 0.87 unc 0 175ms
+FAIL ja #110 ink 0.6 jpeg vert none 108x420 conf 0.73 unc 2 490ms
+   want 男子も女子も学校で料理の授業をとるべきだ。 
+   got  男子も女子も学校で料理の授業をと
+るべきた。 ja
+OK   ko #111 slate 1 png horiz none 900x118 conf 0.8 unc 0 592ms
+OK   zh-Hans #112 ink 0.8 png vert none 144x560 conf 0.81 unc 0 498ms
+OK   zh-Hant #113 ink 1 jpeg horiz none 900x118 conf 0.78 unc 0 146ms
+OK   ja #114 ink 0.8 jpeg horiz none 720x94 conf 0.8 unc 0 356ms
+OK   ko #115 night 0.6 png horiz none 540x71 conf 0.66 unc 4 582ms
+OK   zh-Hans #116 paper 0.8 jpeg horiz pinyin 720x107 conf 0.76 unc 0 582ms
+OK   zh-Hant #117 slate 1.5 png horiz none 1350x270 conf 0.84 unc 0 1175ms
+OK   ja #118 ink 2 png horiz furigana 1800x268 conf 0.87 unc 0 488ms
+FAIL ko #119 slate 0.6 png horiz none 540x71 conf 0.69 unc 1 771ms
+   want 크림은 우크라이나입니다! 
+   got  크림운 우크라이나입니다! ko
+TOTAL zh-Hans cases 30 exact 29 chars 371/372 misses-flagged 1/1
+TOTAL zh-Hant cases 30 exact 29 chars 293/294 misses-flagged 1/1
+TOTAL ja cases 30 exact 27 chars 499/502 misses-flagged 3/3
+TOTAL ko cases 30 exact 21 chars 324/333 misses-flagged 6/9

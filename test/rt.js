@@ -1,0 +1,5 @@
+require('./hb.js')().then(EA=>{const fs=require('fs');let ok=0,n=0;
+const cases=[['我们一起去学校吧。','zh-Hans','pinyin',false],['我們一起去學校吧。','zh-Hant','zhuyin',false],['私は日本語を勉強しています。','ja','furigana',false],['東京へ行きました','ja','romaji',true],['한국어를 공부해요. 학교에서 밥을 먹었어요.','ko','romaja',false],['大韓民國 만세','ko','hangul',true],['春眠不觉晓，处处闻啼鸟。','zh-Hans','none',true],['ラリー・ドルトン','ja','none',false]];
+for(const [t,lang,ruby,vert] of cases){const svg=EA.render(t,{lang,ruby,vertical:vert,size:40,width:700});if(t.startsWith('我们'))fs.writeFileSync('/tmp/claude-0/-home-claude/7c56d3d1-d0d8-5d3b-a1ae-2790b2641649/scratchpad/ea1.svg',svg);if(t.startsWith('東京'))fs.writeFileSync('/tmp/claude-0/-home-claude/7c56d3d1-d0d8-5d3b-a1ae-2790b2641649/scratchpad/ea2.svg',svg);
+ const t0=Date.now();const r=EA.readSVG(svg);n++;const good=r.ok&&r.text.replace(/\s+/g,' ')===t&&r.lang===lang;if(good)ok++;console.log(good?'OK  ':'FAIL',lang,ruby,vert?'vert':'horiz',JSON.stringify(r.text),'| ruby:',JSON.stringify((r.ruby||'').slice(0,60)),Date.now()-t0+'ms');}
+console.log('svg',ok,'/',n);});
