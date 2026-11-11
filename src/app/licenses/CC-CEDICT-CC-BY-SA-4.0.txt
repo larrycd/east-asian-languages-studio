@@ -1,0 +1,11 @@
+CC-CEDICT - Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+CC-CEDICT Chinese-English dictionary, published by MDBG (https://www.mdbg.net/chinese/dictionary?page=cc-cedict).
+Used in East Asian Languages Studio: data/zh/dict1.json and dict2.json and the English index data/zh/en.json.
+
+Changes made: entries were converted to compact JSON (simplified, traditional, pinyin, meanings, measure words);
+entries with the same characters and pinyin were joined; a frequency estimate was added from Tatoeba sentences;
+an English-to-Chinese index was built from the meanings. No meanings were edited.
+
+Because it is derived from CC BY-SA material, data/zh/dict1.json and dict2.json and data/zh/en.json are shared under CC BY-SA 4.0.
+Licence text: https://creativecommons.org/licenses/by-sa/4.0/legalcode

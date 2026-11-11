@@ -1,0 +1,7 @@
+KanjiVG - Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+KanjiVG is copyright Ulrich Apel and released under the Creative Commons Attribution-Share Alike 3.0 licence.
+https://kanjivg.tagaini.net/  https://github.com/KanjiVG/kanjivg
+Used in East Asian Languages Studio: data/strokes/ja_*.json (the stroke paths of 4,682 kanji, in stroke order,
+taken from the SVG files and grouped into 48 JSON files). These files are shared under CC BY-SA 3.0.
+Licence text: https://creativecommons.org/licenses/by-sa/3.0/legalcode

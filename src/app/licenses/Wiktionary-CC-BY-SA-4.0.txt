@@ -1,0 +1,8 @@
+Korean entries from English Wiktionary - Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Source: English Wiktionary (https://en.wiktionary.org/), Korean-language entries, as extracted by Wiktextract and
+published by kaikki.org (https://kaikki.org/dictionary/Korean/). Wiktionary text is also available under the GFDL.
+Used in East Asian Languages Studio: data/ko/dict.json (rows marked "w") and data/ko/en.json.
+Changes made: word, part of speech, Hanja, up to four English glosses and the infinitive form were kept;
+archaic, dialectal and North Korean senses were dropped when other senses exist; a frequency estimate was added.
+These files are shared under CC BY-SA 4.0. Licence text: https://creativecommons.org/licenses/by-sa/4.0/legalcode

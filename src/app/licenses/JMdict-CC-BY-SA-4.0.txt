@@ -1,0 +1,10 @@
+JMdict - Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This publication has included material from the JMdict (EDICT, etc.) dictionary files in accordance with
+the licence provisions of the Electronic Dictionaries Research Group. See http://www.edrdg.org/
+(JMdict_e, the English-only edition, downloaded November 2026.)
+
+Used in East Asian Languages Studio: data/ja/dict1.json to dict3.json and the English index data/ja/en.json.
+Changes made: up to three written forms, three readings and four senses per entry were kept, converted to compact
+JSON with the part-of-speech codes of the first sense; a frequency estimate was added from Tatoeba sentences.
+These files are shared under CC BY-SA 4.0. Licence text: https://creativecommons.org/licenses/by-sa/4.0/legalcode

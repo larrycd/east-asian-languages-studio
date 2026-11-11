@@ -1,0 +1,8 @@
+Tatoeba example sentences - Creative Commons Attribution 2.0 France (CC BY 2.0 FR)
+
+Sentences and English translations from Tatoeba (https://tatoeba.org), exported November 2026.
+Each sentence keeps its Tatoeba number; the studio links to it (https://tatoeba.org/en/sentences/show/<number>).
+Used in East Asian Languages Studio: data/ex/zh.json, ja.json and ko.json, and the frequency estimates.
+Changes made: Mandarin, Japanese and Korean sentences of up to 60 characters with an English translation were kept
+(up to 60,000 Mandarin, 60,000 Japanese and 20,000 Korean), paired with their shortest English translation.
+Licence text: https://creativecommons.org/licenses/by/2.0/fr/legalcode
